@@ -302,7 +302,7 @@ function Nav({ ready }) {
           })}
         </ul>
         <button className="nav-btn" onClick={() => setOpen(true)} aria-label="Open menu">
-          Menu
+          Content
         </button>
       </motion.nav>
 
